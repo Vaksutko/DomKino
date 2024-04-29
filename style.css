@@ -1,0 +1,14 @@
+.logo {
+	transform: translateY(-4px);
+}
+.cla{
+	transform: translateY(-3px);
+}
+
+.collapse{
+	transform: translateY(1px);
+}
+
+.red{
+	transform: translateY(4px);
+}

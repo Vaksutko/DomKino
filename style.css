@@ -12,3 +12,9 @@
 .red{
 	transform: translateY(4px);
 }
+
+.roboto-thin {
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}

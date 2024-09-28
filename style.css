@@ -18,3 +18,26 @@
   font-weight: 100;
   font-style: normal;
 }
+
+.interesting {
+	color: ffffff;
+}
+
+.emoji {
+	font-size: 35px;
+}
+
+.title {
+	padding-top: 5%;
+	padding-bottom: 5% ;
+}
+
+.title_main {
+	font-size: 32px;
+	text-align: center;
+}
+
+.title_text {
+	font-size: 20px;
+    text-align: center;
+}

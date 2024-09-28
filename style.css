@@ -41,3 +41,14 @@
 	font-size: 20px;
     text-align: center;
 }
+
+/* 3 экран*/
+
+.feedback {
+	background: #000;
+	color: #fff;
+}
+
+.blue{
+	color:#95d;
+}
